@@ -1,0 +1,6 @@
+{
+  "name": "Messenger App",
+  "description": "A feature-rich real-time messenger with direct & group chats, voice notes, audio/video calls, contact management, and customizable themes.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
